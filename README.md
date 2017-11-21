@@ -1,4 +1,6 @@
 # HeadlineWriter
+
+## Collaborator: [Varnith](https://www.linkedin.com/in/varnith-chordia/),[Naren](https://www.linkedin.com/in/naren-sundar-data-analyst/), [Ranvir](https://www.linkedin.com/in/ranvir-singh-92277634/)
 ### Tools Used: Pytorch , Pysark, nltk, BeautifulSoup, gensim
 1. Obtained~700,000 news articles from various data sources, by building a web scrapper on Python.
 2. Tokenized words and visualized text patterns on Pyspark, giving insights on the content of news present.
